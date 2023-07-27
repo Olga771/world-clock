@@ -1,8 +1,8 @@
 body {
   background-color: blanchedalmond;
-  background-image: url("https://cdn.pixabay.com/photo/2019/06/26/10/21/earth-4300085_640.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2014/03/20/07/36/city-291100_640.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
   background-attachment: fixed;
   background-size: cover;
   font-family: sans-serif;
@@ -54,8 +54,12 @@ select {
   line-height: 36px;
 }
 
+.link {
+  color: rgb(42, 160, 214);
+}
+
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(243, 237, 237, 0.8);
 }
