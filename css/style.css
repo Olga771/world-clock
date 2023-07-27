@@ -1,7 +1,8 @@
 body {
   background-color: blanchedalmond;
-  background-image: url("https://cdn.pixabay.com/photo/2014/03/20/07/36/city-291100_640.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2019/06/26/10/21/earth-4300085_640.jpg");
   background-repeat: no-repeat;
+  background-position: 0 auto;
   font-family: sans-serif;
 }
 h1 {
